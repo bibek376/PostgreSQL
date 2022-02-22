@@ -64,5 +64,3 @@ select tableoid::regclass,* from partition_list_test;
 
 
 
-
-
