@@ -122,6 +122,15 @@ select * from refresh_test_demo_mv_trigger;
 
 
 
+create table q3_table(id int ,name varchar,gender character(1));
+insert into q3_table values(1,'Bibek','F');
+insert into q3_table values(1,'Binita','M');
+
+select q.id,q.name,case
+					when q.gender='F' then 'M'
+					when q.gender='M' then 'F'
+					end "Result"
+from q3_table q;
 
 
 

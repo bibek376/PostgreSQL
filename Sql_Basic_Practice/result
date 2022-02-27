@@ -1,0 +1,4 @@
+person_uid,first_name,last_name,gender,email,date_of_birth,country_of_birth,car_uid,car_uid,make,model,price
+a4bf702f-9e5a-4078-a9e1-7fd92f968ccc,Fernanda,Beardon,Female,fernandab@is.gd,1953-10-28,Comoros,e8bec08d-06d9-4d2c-8356-48958e03ef8d,e8bec08d-06d9-4d2c-8356-48958e03ef8d,Land Rover,Sterling,87665.38
+ec00a2ce-c48b-43d8-9153-de48e1b791a9,Omar,Colmore,Male,,1921-04-03,Finland,1c6c02f6-84ea-4dcc-875a-338347ff2276,1c6c02f6-84ea-4dcc-875a-338347ff2276,GMC,Acadia,17662.69
+3ac16800-11c2-415c-86b0-51e5d8a7c03a,Adriana,Matuschek,Female,amatuschek2@feedburner.com,1965-02-28,Cameroon,,,,,
