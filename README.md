@@ -18,6 +18,11 @@ The main Aim of this Repo. is to fill the gap between Resource and Good Resource
 # Dataset
 In this repo i am using the data which in the format of dump file , .tar or .sql for which is available on [click here](https://github.com/bibek376/Postgres/tree/master/Sql_Data_Dump_File)
 
+# Requirements
+1.Basic Knowledge Of SQL<br>
+2.PostgreSQL Tools like pgadmin4 or Dbeaver<br>
+3.patience and Practice
+
 # Index 
 
 ### 1.  [Read Theory ](https://github.com/bibek376/Postgres/tree/master/Hand_Written_Notes)
