@@ -26,11 +26,12 @@ In this repo i am using the data which in the format of dump file , .tar or .sql
 # Index 
 
 ### 1.  [Read Theory ](https://github.com/bibek376/Postgres/tree/master/Hand_Written_Notes)
-### 2.  [Follow Bibek Daii Resource](https://github.com/bibek376/Postgres/tree/master/Bibek_Daii_Resources)<br>
+### 2.  [Resource](https://github.com/bibek376/Postgres/tree/master/Bibek_Daii_Resources)<br>
 #### ~Read SQL Important Concept  </br>
 ### 3.  [Restore Files (SQL Data Dump File)](https://github.com/bibek376/Postgres/tree/master/Sql_Data_Dump_File)
 ### 4.  [SQL Basic Practice](https://github.com/bibek376/Postgres/tree/master/Sql_Basic_Practice)
 ### 5.  [SQl Practice Form W3resource](https://github.com/bibek376/Postgres/tree/master/practice)
+### 6. [SQL Challange](https://github.com/bibek376/Postgres/tree/master/SQL_Challange_By_W3resource)
 
 # Feedback
 
