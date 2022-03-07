@@ -13,7 +13,7 @@ PostgreSQL is the open-source relational database software that runs on the Linu
 #### This Repository Contain All the Required Files related to SQL like Cheat-sheet,SQL Questions,Theory and Resources.
 
 # Aims
-The main Aim of this Repo. is to fill the gap between Resource and Good Resource Practice For the PostgreSQL .
+The main Aim of this Repo. is to fill the gap between Resource and Good Resource  to Practice  PostgreSQL .
 
 # Index 
 
