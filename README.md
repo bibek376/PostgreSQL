@@ -50,7 +50,7 @@ In this section it contains some of the advance concept of SQL .
         vi.  Partition
         vii. Function / Procedure
 
-### 6.  [SQl Practice Form W3resource](https://github.com/bibek376/Postgres/tree/master/practice)
+### 7.  [SQl Practice Form W3resource](https://github.com/bibek376/Postgres/tree/master/practice)
 This Section Contain all the Questions and Solutions from w3resource .
 
 ####        A. SQL Exercise 
@@ -96,7 +96,7 @@ This Section Contain all the Questions and Solutions from w3resource .
         ix.  PostgreSQL String Functions [14 Exercises with Solution]
         x.   PostgreSQL JOINS [13 Exercises with Solution]
         xi.  PostgreSQL Subqueries [21 Exercises with Solution ]
-### 7. [SQL Challange](https://github.com/bibek376/Postgres/tree/master/SQL_Challange_By_W3resource)
+### 8. [SQL Challange](https://github.com/bibek376/Postgres/tree/master/SQL_Challange_By_W3resource)
 For this i pick the questions from [w3SQLchallange](https://www.w3resource.com/sql-exercises/challenges-1/index.php)
 which contain 40+ questions .
 
