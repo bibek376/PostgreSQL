@@ -87,6 +87,8 @@ This Section Contain all the Questions and Solutions from w3resource .
         x.   PostgreSQL JOINS [13 Exercises with Solution]
         xi.  PostgreSQL Subqueries [21 Exercises with Solution ]
 ### 7. [SQL Challange](https://github.com/bibek376/Postgres/tree/master/SQL_Challange_By_W3resource)
+For this i pick the questions from [w3SQLchallange](https://www.w3resource.com/sql-exercises/challenges-1/index.php)
+which contain 40+ questions .
 
 # Feedback
 
