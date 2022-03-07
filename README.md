@@ -23,15 +23,20 @@ In this repo i am using the data which in the format of dump file , .tar or .sql
 2.PostgreSQL Tools like pgadmin4 or Dbeaver<br>
 3.patience and Practice
 
-# Index 
+# Table Of Content 
 
-### 1.  [Read Theory ](https://github.com/bibek376/Postgres/tree/master/Hand_Written_Notes)
+### 1.  [Theory ](https://github.com/bibek376/Postgres/tree/master/Hand_Written_Notes)
+All the theory,SQL Questions and solutions(Which i got during my training) .
 ### 2.  [Resource](https://github.com/bibek376/Postgres/tree/master/Bibek_Daii_Resources)<br>
-#### ~Read SQL Important Concept  </br>
+For the resource you can follow the link which contain all the resource in .pdf file which is based on oracle as well as postgresSQL Database.
 ### 3.  [Restore Files (SQL Data Dump File)](https://github.com/bibek376/Postgres/tree/master/Sql_Data_Dump_File)
-### 4.  [SQL Basic Practice](https://github.com/bibek376/Postgres/tree/master/Sql_Basic_Practice)
-### 5.  [SQl Practice Form W3resource](https://github.com/bibek376/Postgres/tree/master/practice)
-### 6. [SQL Challange](https://github.com/bibek376/Postgres/tree/master/SQL_Challange_By_W3resource)
+### 4.  [Assignment](https://github.com/bibek376/Postgres/tree/master/Assignment)
+    i. Questions
+
+    ii. Solutions
+### 5.  [SQL Basic Practice](https://github.com/bibek376/Postgres/tree/master/Sql_Basic_Practice)
+### 6.  [SQl Practice Form W3resource](https://github.com/bibek376/Postgres/tree/master/practice)
+### 7. [SQL Challange](https://github.com/bibek376/Postgres/tree/master/SQL_Challange_By_W3resource)
 
 # Feedback
 
