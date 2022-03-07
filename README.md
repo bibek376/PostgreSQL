@@ -38,28 +38,32 @@ These are the Questions Which i got during my training ,this folder contain.
     ii. Solutions
 ### 5.  [SQL Basic Practice](https://github.com/bibek376/Postgres/tree/master/Sql_Basic_Practice)
 It contain Some of the Basic PostgresSQL or any other RDBMS Practice .
+
+
 ### 6.  [SQl Practice Form W3resource](https://github.com/bibek376/Postgres/tree/master/practice)
 This Section Contain all the Questions and Solutions from w3resource .
 
+####        A. SQL Exercise 
+
         i.SQL Exercises, Practice, Solution
-                a.SQL Retrieve data from tables [33 Exercises]
-                b.SQL Boolean and Relational operators [12 Exercises]
-                c.SQL Wildcard and Special operators [22 Exercises]
-                d.SQL Aggregate Functions [25 Exercises]
-                e.SQL Formatting query output [10 Exercises]
-                f.SQL Quering on Multiple Tables [8 Exercises]
-                g.FILTERING and SORTING on HR Database [38 Exercises]
+                a. SQL Retrieve data from tables [33 Exercises]
+                b. SQL Boolean and Relational operators [12 Exercises]
+                c. SQL Wildcard and Special operators [22 Exercises]
+                d. SQL Aggregate Functions [25 Exercises]
+                e. SQL Formatting query output [10 Exercises]
+                f. SQL Quering on Multiple Tables [8 Exercises]
+                g. FILTERING and SORTING on HR Database [38 Exercises]
         ii. SQL JOINS
-                a.SQL JOINS [29 Exercises]
+                a. SQL JOINS [29 Exercises]
         iii. SQL SUBQUERIES
-                a.SQL SUBQUERIES [39 Exercises]
+                a. SQL SUBQUERIES [39 Exercises]
         iv. SQL Union
         v.  SQL View
         vi. SQL User Account Management [16 Exercise]
         vii. Movie Database
-                a.BASIC queries on movie Database [10 Exercises]
-                b.SUBQUERIES on movie Database [16 Exercises]
-                c.JOINS on movie Database [24 Exercises]
+                a. BASIC queries on movie Database [10 Exercises]
+                b. SUBQUERIES on movie Database [16 Exercises]
+                c. JOINS on movie Database [24 Exercises]
         viii. Soccer Database
                 a. BASIC queries on soccer Database [29 Exercises]
                 b. SUBQUERIES on soccer Database [33 Exercises]
@@ -69,6 +73,19 @@ This Section Contain all the Questions and Solutions from w3resource .
         x.    Employee Database
                 a. BASIC queries on employee Database [115 Exercises]
                 b. SUBQUERIES on employee Database [77 Exercises]
+
+####     B. PostgreSQL Exercises
+
+        i.   PostgreSQL Create Table statement [19 Exercises]
+        ii.  PostgreSQL Alter Table statement [13 Exercises]
+        iii. PostgreSQL Update Table statement [8 Exercises]
+        iv.  PostgreSQL Insert Into statement [13 Exercises]
+        v.   PostgreSQL Basic SELECT statement [19 Exercises]
+        vi.  PostgreSQL Restricting and Sorting Data [11 Exercises with Solutions] 
+        vii. PostgreSQL Aggregate Functions and Group by [14 Exercises with Solutions]
+        ix.  PostgreSQL String Functions [14 Exercises with Solution]
+        x.   PostgreSQL JOINS [13 Exercises with Solution]
+        xi.  PostgreSQL Subqueries [21 Exercises with Solution ]
 ### 7. [SQL Challange](https://github.com/bibek376/Postgres/tree/master/SQL_Challange_By_W3resource)
 
 # Feedback
