@@ -7,6 +7,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/bibek376/Postgres)](https://github.com/bibek376/Postgres/stargazers)
 
 
+# Intoduction
+PostgreSQL is the open-source relational database software that runs on the Linux platform and functions with objects as a relational component in the database management system. It uses Structured Query Language (SQL) for accessing the data in the tables of the database, and hence it is also called Postgres. Some of this database’s prominent features are that it is highly robust and reliable, the recovering process is effortless, and maintenance costs less cost and manual efforts. It is developed and maintained by the PostgreSQL Global Development Group, which is a group of PostgreSQL developers.
 
 #### This Repository Contain All the Required Files related to SQL like Cheat-sheet,SQL Questions,Theory and Resources.
 
