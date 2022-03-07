@@ -16,7 +16,7 @@ PostgreSQL is the open-source relational database software that runs on the Linu
 The main Aim of this Repo. is to fill the gap between Resource and Good Resource  to Practice  PostgreSQL .
 
 # Dataset
-In this repo i am using the data which in the format of dump file or .sql for which is available on [click me](https://github.com/bibek376/Postgres/tree/master/Sql_Data_Dump_File)
+In this repo i am using the data which in the format of dump file , .tar or .sql for which is available on [click here](https://github.com/bibek376/Postgres/tree/master/Sql_Data_Dump_File)
 
 # Index 
 
