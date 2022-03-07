@@ -19,9 +19,9 @@ The main Aim of this Repo. is to fill the gap between Resource and Good Resource
 In this repo i am using the data which in the format of dump file , .tar or .sql for which is available on [click here](https://github.com/bibek376/Postgres/tree/master/Sql_Data_Dump_File)
 
 # Requirements
-1.Basic Knowledge Of SQL<br>
-2.PostgreSQL Tools like pgadmin4 or Dbeaver<br>
-3.patience and Practice
+1. Basic Knowledge Of SQL<br>
+2. PostgreSQL Tools like pgadmin4 or Dbeaver<br>
+3. patience and Practice
 
 # Table Of Content 
 
@@ -39,6 +39,16 @@ These are the Questions Which i got during my training ,this folder contain.
 ### 5.  [SQL Basic Practice](https://github.com/bibek376/Postgres/tree/master/Sql_Basic_Practice)
 It contain Some of the Basic PostgresSQL or any other RDBMS Practice .
 
+### 6. [Important SQL Concept ](https://github.com/bibek376/Postgres/tree/master/Important_SQL_Concept)
+In this section it contains some of the advance concept of SQL . 
+
+        i.   Window Function
+        ii.  Sequence 
+        iii. Trigger
+        iv.  Views
+        v.   Postgres Unique Features
+        vi.  Partition
+        vii. Function / Procedure
 
 ### 6.  [SQl Practice Form W3resource](https://github.com/bibek376/Postgres/tree/master/practice)
 This Section Contain all the Questions and Solutions from w3resource .
