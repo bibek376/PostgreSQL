@@ -30,6 +30,7 @@ All the theory,SQL Questions and solutions .
 ### 2.  [Resource](https://github.com/bibek376/Postgres/tree/master/Bibek_Daii_Resources)<br>
 For the resource you can follow the link which contain all the resource in .pdf file which is based on oracle as well as postgresSQL Database.
 ### 3.  [Restore Files (SQL Data Dump File)](https://github.com/bibek376/Postgres/tree/master/Sql_Data_Dump_File)
+Restore the dump,.tar,.sql file according to your need.
 ### 4.  [Assignment](https://github.com/bibek376/Postgres/tree/master/Assignment)
 These are the Questions Which i got during my training ,this folder contain.
 
