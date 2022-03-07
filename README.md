@@ -26,16 +26,49 @@ In this repo i am using the data which in the format of dump file , .tar or .sql
 # Table Of Content 
 
 ### 1.  [Theory ](https://github.com/bibek376/Postgres/tree/master/Hand_Written_Notes)
-All the theory,SQL Questions and solutions(Which i got during my training) .
+All the theory,SQL Questions and solutions .
 ### 2.  [Resource](https://github.com/bibek376/Postgres/tree/master/Bibek_Daii_Resources)<br>
 For the resource you can follow the link which contain all the resource in .pdf file which is based on oracle as well as postgresSQL Database.
 ### 3.  [Restore Files (SQL Data Dump File)](https://github.com/bibek376/Postgres/tree/master/Sql_Data_Dump_File)
 ### 4.  [Assignment](https://github.com/bibek376/Postgres/tree/master/Assignment)
-    i. Questions
+These are the Questions Which i got during my training ,this folder contain.
 
+    i. Questions
+    
     ii. Solutions
 ### 5.  [SQL Basic Practice](https://github.com/bibek376/Postgres/tree/master/Sql_Basic_Practice)
+It contain Some of the Basic PostgresSQL or any other RDBMS Practice .
 ### 6.  [SQl Practice Form W3resource](https://github.com/bibek376/Postgres/tree/master/practice)
+This Section Contain all the Questions and Solutions from w3resource .
+
+        i.SQL Exercises, Practice, Solution
+                a.SQL Retrieve data from tables [33 Exercises]
+                b.SQL Boolean and Relational operators [12 Exercises]
+                c.SQL Wildcard and Special operators [22 Exercises]
+                d.SQL Aggregate Functions [25 Exercises]
+                e.SQL Formatting query output [10 Exercises]
+                f.SQL Quering on Multiple Tables [8 Exercises]
+                g.FILTERING and SORTING on HR Database [38 Exercises]
+        ii. SQL JOINS
+                a.SQL JOINS [29 Exercises]
+        iii. SQL SUBQUERIES
+                a.SQL SUBQUERIES [39 Exercises]
+        iv. SQL Union
+        v.  SQL View
+        vi. SQL User Account Management [16 Exercise]
+        vii. Movie Database
+                a.BASIC queries on movie Database [10 Exercises]
+                b.SUBQUERIES on movie Database [16 Exercises]
+                c.JOINS on movie Database [24 Exercises]
+        viii. Soccer Database
+                a. BASIC queries on soccer Database [29 Exercises]
+                b. SUBQUERIES on soccer Database [33 Exercises]
+                c. JOINS queries on soccer Database [61 Exercises]
+        ix.   Hospital Database
+                a. BASIC, SUBQUERIES, and JOINS [39 Exercises]
+        x.    Employee Database
+                a. BASIC queries on employee Database [115 Exercises]
+                b. SUBQUERIES on employee Database [77 Exercises]
 ### 7. [SQL Challange](https://github.com/bibek376/Postgres/tree/master/SQL_Challange_By_W3resource)
 
 # Feedback
