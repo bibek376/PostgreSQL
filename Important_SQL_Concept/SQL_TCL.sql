@@ -13,22 +13,22 @@ select * from test1;
 
 
 --SQL Injection
-select * from test1 
-where id=1 or 1=1-- ;
+--select * from test1 
+--where id=1 or 1=1-- ;
+--
+--
+--select * from test1 
+--where name='asdf' or 1=1-- ;
+--
+--select * from test1 t 
+--where name='A' --' and id=123; 
+--
+--select * 
+--from test1
+--where id=1;
+--drop table test2;
 
-
-select * from test1 
-where name='asdf' or 1=1-- ;
-
-select * from test1 t 
-where name='A' --' and id=123; 
-
-select * 
-from test1
-where id=1;
-drop table test2;
-
-select * from test2;
+select * from test1;
 
 savepoint test1_insert;
 
