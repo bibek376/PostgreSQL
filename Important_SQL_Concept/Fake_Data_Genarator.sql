@@ -63,11 +63,70 @@ create table employee(emp_id int primary key,f_name varchar(20),
 -- Angular--------3%
 -- Support--------15%				
 
+-------------------------------------------------------------------------------
+select * from department d ;
+select * from employee e ;
 
 
+insert into employee(emp_id,f_name,l_name,salary,email,department_id)
+select tt.emp_id,tt.f_name,tt.l_name,tt.salary,
+tt.f_name||tt.aaa||tt.mail "Email", tt.department_id from 
+(select 
+	a "emp_id" ,
+	case round(random()*3)
+	when 0 then 'Info'||a
+	when 1 then 'Bibek'||a
+	when 2 then 'Carlos'||a
+	when 3 then 'Test'||a
+	end "f_name",
+	case round(random()*3)
+	when 0 then 'dev'||a
+	when 1 then 'Rawat'||a
+	when 2 then 'Den'||a
+	when 3 then 'Data'||a
+	end "l_name",
+	round(random() * (50000-10000+1) +10000) "salary",
+	a::varchar||'@' "aaa",
+	case round(random()*3)
+	when 0 then 'gmail.com'
+	when 1 then 'hotmail.com'
+	when 2 then 'yahoomail.com'
+	when 3 then 'servicemail.com'
+	end "mail",
+	round(random()* (110-101)+101) "department_id"
+	from pg_catalog.generate_series(1,10) a)tt; 
+	
 
 
+select 1::varchar||'aa'::varchar;	
+	
+------------------------------------------------------------------------
 
+--Testing Section
+select 
+case round(random()*3)
+	when 0 then 'Info'||a
+	when 1 then 'Bibek'||a
+	when 2 then 'Carlos'||a
+	when 3 then 'TestData'||a
+	end "Name"||(case round(random()*3)
+	when 0 then 'Info'||a
+	when 1 then 'Bibek'||a
+	when 2 then 'Carlos'||a
+	when 3 then 'TestData'||a
+	end "Name")
+from generate_series(1,50) a;
+		
+	
+select * from pg_catalog.generate_series(1,1000) a; 
+	
+	
+select round(random()*3);
+
+select round(random() * (50000-10000+1) +10000);
+
+
+select round(random()* (110-101)+101); 
 
 
 
