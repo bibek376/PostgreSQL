@@ -99,6 +99,39 @@ where substring(e.first_name,1,6)= '430201';
 
 ------------------------------------------------------------------------------
 
+--Create JOINs with INNER JOIN (not WHERE)
+
+explain SELECT d.department_id , d.department_name ,
+e.first_name, p.project_name
+FROM employee e, department d , project p
+WHERE e.department_id = d.department_id
+and d.department_id =p.department_id ;
+
+
+explain SELECT d.department_id , d.department_name ,
+e.first_name,p.project_name
+FROM employee e join department d
+on e.department_id = d.department_id
+join project p on d.department_id =p.department_id;
+
+--------------------------------------------------------------------------
+--Ignore linked subqueries
+
+select e.first_name , (select d.department_id from department d where
+d.department_id=e.department_id)
+from employee e ;
+
+
+select e.first_name , d.department_id
+from employee e join department d
+on d.department_id=e.department_id;
+
+
+
+
+
+
+
 
 
 
