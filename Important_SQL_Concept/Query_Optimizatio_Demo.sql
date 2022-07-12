@@ -126,7 +126,28 @@ select e.first_name , d.department_id
 from employee e join department d
 on d.department_id=e.department_id;
 
+---------------------------------------------------------------------------
 
+select e.first_name , (select d.department_id from department d where
+d.department_id=e.department_id
+limit 1)from employee e ;
+
+select tt.first_name , tt.department_id
+from (select e.first_name , d.department_id , row_number() over (partition by
+d.department_id ) as rn
+from employee e join department d
+on d.department_id=e.department_id ) tt
+where tt.rn=1;
+
+-------------------------------------------------------------------------
+--IN versus EXISTS
+
+explain select d.department_id ,d.department_name from department d
+where d.department_id in (select p.department_id from project p);
+
+explain select d.department_id ,d.department_name from department d
+where exists (select p.department_id from project p
+where d.department_id=p.department_id);
 
 
 
