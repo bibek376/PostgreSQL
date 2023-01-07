@@ -1,0 +1,12 @@
+
+--To see a size of a table
+
+student=# select pg_size_pretty(pg_relation_size('test')) "test table size";
+
+
+
+--Size of a table includeing index and other related space
+
+select pg_size_pretty(pg_total_relation_size('test')) "test table total size";
+
+
