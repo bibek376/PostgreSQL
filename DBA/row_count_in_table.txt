@@ -1,0 +1,10 @@
+
+
+---
+
+SELECT (CASE WHEN reltuples > 0 THEN
+pg_relation_size(oid)*reltuples/(8192*relpages)
+ELSE 0
+END)::bigint AS estimated_row_count
+FROM pg_class
+WHERE oid = 'test'::regclass;
