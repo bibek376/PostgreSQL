@@ -1,0 +1,13 @@
+
+--Query For server_up_time
+
+postgres=# SELECT date_trunc('second',
+current_timestamp - pg_postmaster_start_time()) as uptime;
+
+
+postgres=# SELECT pg_postmaster_start_time();
+
+
+
+postgres=# SELECT date_trunc('second',
+current_timestamp - pg_postmaster_start_time()) as uptime;
